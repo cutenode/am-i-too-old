@@ -1,7 +1,7 @@
 {
-  "name": "am-i-too-old-to-learn-to-code",
+  "name": "am-i-too-old",
   "version": "1.0.0",
-  "description": "",
+  "description": "A CLI that will determine if you are too old to learn to code.",
   "main": "bin/cli.js",
   "bin": {
     "am-i-too-old-to-learn-to-code": "bin/cli.js"
