@@ -1,0 +1,18 @@
+{
+  "name": "am-i-too-old-to-learn-to-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/cli.js",
+  "bin": {
+    "am-i-too-old-to-learn-to-code": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tierney Cyren <hello@bnb.im> (https://bnb.im)",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
