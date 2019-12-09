@@ -1,5 +1,7 @@
 # am-i-too-old
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cutenode/am-i-too-old.svg)](https://greenkeeper.io/)
+
 A quick and easy command line interface (CLI) that will tell you if you're too old to learn to code.
 
 ## Usage
