@@ -13,6 +13,6 @@
   "author": "Tierney Cyren <hello@bnb.im> (https://bnb.im)",
   "license": "MIT",
   "devDependencies": {
-    "standard": "^12.0.1"
+    "standard": "^14.3.1"
   }
 }
